@@ -26,6 +26,6 @@ const styles = {
   fontSize: 20,
   paddingBottom: 10
   }
-}
+};
 
 export { Header };

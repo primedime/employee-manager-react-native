@@ -34,6 +34,6 @@ const styles = {
     paddingTop: 10,
     paddingBottom: 10
   }
-}
+};
 
 export { Button };
